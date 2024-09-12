@@ -1,6 +1,6 @@
 # Instructions
 
-## [1]
+## [1] First Commit
 
 1- Open git bash here
 
@@ -15,7 +15,7 @@
 6- git push -u origin main
 
 
-## [2]
+## [2] Updates
 
 1- Open git bash
 
