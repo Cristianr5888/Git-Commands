@@ -1,9 +1,9 @@
-# Instructions
+![image](https://github.com/user-attachments/assets/f00ebd2b-ed02-4f6c-bdb6-d578de386f81)# Instructions
 
 ## [1] First Commit
 
 1- Open git bash here
-
+<img src="open.png" width="400">
 2- git init
 
 3- git commit -m "first commit"
