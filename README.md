@@ -1,21 +1,21 @@
 # Instructions
 
-## 1
+## <1>
 
 1- Open git bash here
 
-2- Git init
+2- git init
 
 3- git commit -m "first commit"
 
-4- git remote add origin https://github.com/Cristian5888/[repository name].git
+4- git remote add origin https://github.com/Cristian5888/[repository_name].git
 
 5- git branch -M main
 
 6- git push -u origin main
 
 
-## 2
+## <2>
 
 1- Open git bash
 
