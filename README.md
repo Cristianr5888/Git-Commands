@@ -3,7 +3,9 @@
 ## [1] First Commit
 
 1- Open git bash here
+
 <img src="open.png" width="400">
+
 2- git init
 
 3- git commit -m "first commit"
