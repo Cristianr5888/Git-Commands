@@ -14,7 +14,7 @@
 
 3- git commit -m "first commit"
 
-4- git remote add origin https://github.com/Cristian5888/[repository_name].git
+4- git remote add origin https://github.com/Cristianr5888/[repository_name].git
 
 5- git branch -M main
 
