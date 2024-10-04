@@ -32,3 +32,24 @@
 4- git commit -m "second commit"
 
 5- git push origin main
+
+
+# NEW WAY
+
+## First deploy
+
+1- echo "# placeholder" >> README.md
+2- git init
+3- git add README.md
+4- git commit -m "first commit" 
+5- git branch -M main
+6- git remote add origin https://github.com/Cristianr5888/name.git
+7- git push -u origin main
+8- git status
+9- git add .
+10- git commit -m "new commit"
+11- git push -u origin main
+
+## look if you are in the correct branch
+
+git branch
