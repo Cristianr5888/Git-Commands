@@ -63,3 +63,7 @@
 ## look if you are in the correct branch
 
 git branch
+
+## Delete changes
+
+git reset --hard
