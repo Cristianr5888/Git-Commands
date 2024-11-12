@@ -67,3 +67,9 @@ git branch
 ## Delete changes
 
 git reset --hard
+
+## Submit changes
+
+git add .
+git commit -m 
+git push origin {mybranch}
