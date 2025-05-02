@@ -72,7 +72,7 @@
 
 14- git log
 
-15- git checkout <id>
+15- git checkout [id]
 
 ## Verify the ports
 
