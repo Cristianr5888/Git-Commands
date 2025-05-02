@@ -62,24 +62,24 @@
 
 ## look if you are in the correct branch
 
-git branch
+12- git branch
 
 ## Delete changes
 
-git reset --hard
+13- git reset --hard
 
 ## Go back to a previous commit
 
-git log
-git checkout <id>
+14- git log
+15- git checkout <id>
 
 ## Verify the ports
 
-netstat -ano | findstr :5500
-taskkill /PID <PID> /F
+16- netstat -ano | findstr :5500
+17- taskkill /PID <PID> /F
 
 ## Submit changes
 
-git add .
-git commit -m 
-git push origin {mybranch}
+18- git add .
+19- git commit -m 
+20- git push origin {mybranch}
