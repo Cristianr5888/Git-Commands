@@ -71,15 +71,19 @@
 ## Go back to a previous commit
 
 14- git log
+
 15- git checkout <id>
 
 ## Verify the ports
 
 16- netstat -ano | findstr :5500
+
 17- taskkill /PID <PID> /F
 
 ## Submit changes
 
 18- git add .
+
 19- git commit -m 
+
 20- git push origin {mybranch}
