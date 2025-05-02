@@ -78,7 +78,7 @@
 
 16- netstat -ano | findstr :5500
 
-17- taskkill /PID <PID> /F
+17- taskkill /PID [id] /F
 
 ## Submit changes
 
