@@ -1,4 +1,4 @@
-# Instructions
+# Commands
 
 ## [1] First Commit
 
@@ -67,6 +67,16 @@ git branch
 ## Delete changes
 
 git reset --hard
+
+## Go back to a previous commit
+
+git log
+git checkout <id>
+
+## Verify the ports
+
+netstat -ano | findstr :5500
+taskkill /PID <PID> /F
 
 ## Submit changes
 
