@@ -87,3 +87,24 @@
 19- git commit -m 
 
 20- git push origin {mybranch}
+
+## Git branch
+
+21- git fetch --all (refresh)
+
+22- git branch -a (check all branches)
+
+23- git branch -b {branch} (create a new branch and change it)
+
+## Delete a branch when is already in Github
+
+24- git push origin --delete {branch}
+
+## Go back to a previous commit
+
+25- git log
+
+26- git checkout {id commit}
+
+27- git push origin {branch}
+
